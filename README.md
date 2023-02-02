@@ -22,7 +22,7 @@
 - 😌📲 Technical Cofounder of [nlbb.app](https://nlbb.app)
 - 🐻🇩🇪 Lives in Berlin, Germany
 - 💁🏼‍♂️ Likes to use emoji
-- 📫 How to reach me: `marius🐒nlbb⚫️app`
+- 📫 How to reach me: `marius🐒wellspent⚫️so`
 - 📛 Pronouns: he/him
 
 
