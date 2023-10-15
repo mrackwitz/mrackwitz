@@ -19,9 +19,8 @@
 </p>
 
 
-- 😌📲 Technical Cofounder of [nlbb.app](https://nlbb.app)
-- 🐻🇩🇪 Lives in Berlin, Germany
-- 💁🏼‍♂️ Likes to use emoji
+- ⏲️ Technical Cofounder of [Wellspent](https://wellspent.so)
+- 🌍 Digital Nomad
 - 📫 How to reach me: `marius🐒wellspent⚫️so`
 - 📛 Pronouns: he/him
 
@@ -30,7 +29,7 @@
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=mrackwitz&show_icons=true&count_private=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrackwitz&layout=compact&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrackwitz&layout=compact&hide=html&hide_progress=true" />
 </td>
 </tr>
 </tbody>
