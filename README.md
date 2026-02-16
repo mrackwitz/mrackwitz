@@ -19,18 +19,9 @@
 </p>
 
 
-- ⏲️ Technical Cofounder of [Wellspent](https://wellspent.so)
-- 🌍 Digital Nomad
-- 📫 How to reach me: `marius🐒wellspent⚫️so`
+- ✨ Building Human-Centered AI Tools 
+- 🚀 Founder & Builder
+- 🫱🏼‍🫲🏾 Startup Advisor
+- 🌍 Home in Berlin & Cape Town
+- 📫 How to reach me: `kontakt🐒mariusrackwitz⚫️de`
 - 📛 Pronouns: he/him
-
-
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrackwitz&show_icons=true&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrackwitz&layout=compact&hide=html&hide_progress=true" />
-</td>
-</tr>
-</tbody>
-</table>
